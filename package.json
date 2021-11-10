@@ -1,0 +1,26 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopez-marc/test-repo.git"
+  },
+  "keywords": [],
+  "author": "Marc Lopez Torrent <marclopeztorrent@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lopez-marc/test-repo/issues"
+  },
+  "homepage": "https://github.com/lopez-marc/test-repo#readme",
+  "dependencies": {
+    "gatsby": "^4.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
